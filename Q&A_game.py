@@ -12,7 +12,7 @@ def Take_input():
 	else:
 		Output.insert(END, "Wrong answer")
 	
-l = Label(text = "What is 24 * 5 ? ")
+l = Label(text = "What is 24 * 5 ? ") 
 inputtxt = Text(root, height = 10,
 				width = 25,
 				bg = "light yellow")

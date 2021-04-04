@@ -1,8 +1,8 @@
 import random
 def number():
-    m=random.randint(1,10015)
-    n=random.randint(1,15014)
-    o=random.randint(1,505)
+    m=random.randint(1,10)
+    n=random.randint(1,15)
+    o=random.randint(1,5)
     return m,n,o
 def opre():
     lis= ["x","+","-","/"]

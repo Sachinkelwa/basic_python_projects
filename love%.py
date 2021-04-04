@@ -9,7 +9,7 @@ def love(name_male,name_female):
         print("keep loving")
     else:
         print(f"your love prasent is : 100% ")
-        print("your love is beyond the science")
+        print("your love is beyond science")
 a = input("Enter he's name : ")
 b = input("Enter her name : ")
 love(a,b)
